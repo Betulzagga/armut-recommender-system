@@ -1,6 +1,8 @@
 # armut-recommender-system
 A market basket–based recommendation system built using Association Rule Learning for Armut, Turkey's leading online service marketplace. The system suggests services to users based on their historical monthly usage patterns.
+
 🧠 Project Description
+
 This project leverages Association Rule Learning (Apriori Algorithm) to build a recommendation engine that suggests related services to users based on previously received services.
 
 The dataset contains anonymized service usage data including:
